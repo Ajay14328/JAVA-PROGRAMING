@@ -1,0 +1,31 @@
+1.      Check if an array contains duplicates using HashSet.
+
+2. Count frequency of characters in a string using HashMap.
+3. Find the first non-repeating character in a string.
+
+6. Find intersection of two arrays using HashSet.
+
+7. Remove duplicates from a list using HashSet.
+4. Count word frequency in a sentence.
+5. Group anagrams using HashMap.
+8. Find common elements between two lists using Set.
+9. Implement a simple cache using HashMap.
+10. Create a login system: username (String) -> password (String).
+11. Track visits per user ID (Integer) -> count (Integer).
+12. Find all pairs in array that sum to target using HashMap.
+13. Store phonebook: name (String) -> number (String).
+14. Group students by grades using HashMap<String, List<String>>.
+15. Check if two strings are isomorphic using Map<Character, Character>.
+16. Build adjacency list for a graph using HashMap.
+17. Design LRU cache using LinkedHashMap.
+18. Store and retrieve product price by product ID.
+19. Build index of words in a paragraph (word -> list of positions).
+20. Convert list to map of index -> value.
+21. Replace all duplicate elements in array with -1 using Set.
+22. Check if 2 strings are permutations using frequency Map.
+23. Find top K frequent elements using HashMap + PriorityQueue.
+24. Remove stopwords from text using HashSet.
+25. Implement frequency-based suggestion system using HashMap.
+26. Create a reverse map from value -> list of keys.
+
+ 

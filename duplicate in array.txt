@@ -1,0 +1,27 @@
+	package arthematic;
+	import java.util.*;
+	public class arrayinsdele{
+		
+		public static boolean m(int[] a) {
+			HashSet<Integer> s=new HashSet<>();
+			for(int i=0;i<a.length;i++) {
+				if(s.contains(a[i])) {
+					return true;
+				}
+				else {
+					s.add(a[i]);
+				}
+			
+				
+			}
+			return false;
+		}
+	
+		public static void main(String[] args) {
+			Scanner sc=new Scanner(System.in); 
+		 int[] a= {1,2,3,4,4};
+		
+		 System.out.print(m(a));
+		
+		}
+	}
